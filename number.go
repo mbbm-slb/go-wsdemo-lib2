@@ -1,5 +1,5 @@
 package lib2
 
 func Number() int {
-  return 42
+  return 123 //42
 }
